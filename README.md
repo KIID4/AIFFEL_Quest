@@ -1,7 +1,7 @@
 # AIFFEL_Quest
 AIFFEL quest archiving
 
-코더 : 김용재
+코더 : 안동균
 
 리뷰어 : 윤태경
 
